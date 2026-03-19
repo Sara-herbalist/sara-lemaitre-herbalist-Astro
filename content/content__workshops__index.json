@@ -1,0 +1,24 @@
+{
+  "title": "Learn to use plants as medicine",
+  "intro": "Hands-on workshops for anyone who wants to understand herbal medicine — not as a trend, but as a practical skill.",
+  "workshopList": [
+    {
+      "title": "Introduction to Herbal Medicine",
+      "description": "A grounding overview of Western herbal medicine — what it is, how it works, and how to start using plants safely at home.",
+      "duration": "3 hours",
+      "format": "In person · Online"
+    },
+    {
+      "title": "Herbs for Hormonal Health",
+      "description": "An in-depth look at the plants most relevant to endometriosis, PCOS, perimenopause, and menstrual irregularity.",
+      "duration": "3.5 hours",
+      "format": "In person · Online"
+    },
+    {
+      "title": "Make Your Own Herbal Blends",
+      "description": "A practical hands-on session creating personalised teas, tinctures, and topicals.",
+      "duration": "4 hours",
+      "format": "In person only"
+    }
+  ]
+}

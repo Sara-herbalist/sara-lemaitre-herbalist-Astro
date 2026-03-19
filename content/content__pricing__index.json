@@ -1,0 +1,12 @@
+{
+  "initialConsultation": 140,
+  "followUp": 75,
+  "athleteConsultation": 150,
+  "hormonalReset": 360,
+  "stressBurnout": 340,
+  "perimenopause": 380,
+  "athletePerformance": 370,
+  "ihm": 100,
+  "retainerStandard": 240,
+  "retainerIntensive": 320
+}
