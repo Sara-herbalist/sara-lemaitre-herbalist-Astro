@@ -2,8 +2,8 @@ import { defineConfig } from "tinacms";
 
 export default defineConfig({
   // Your Tina Cloud credentials — fill these in after creating a Tina Cloud account at app.tina.io
-  clientId: process.env.TINA_CLIENT_ID || "",
-  token: process.env.TINA_TOKEN || "",
+  clientId: "ddfe5813-2753-4d75-8dc6-c075d28b613c",
+  token: "52f1f7ad390b94c49a147abda7326a36c5d76943",
 
   build: {
     outputFolder: "admin",
