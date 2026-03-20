@@ -4,6 +4,7 @@ export default defineConfig({
   // Your Tina Cloud credentials — fill these in after creating a Tina Cloud account at app.tina.io
   clientId: "ddfe5813-2753-4d75-8dc6-c075d28b613c",
   token: "52f1f7ad390b94c49a147abda7326a36c5d76943",
+  branch: process.env.TINA_BRANCH || process.env.CF_PAGES_BRANCH || "main",
 
   build: {
     outputFolder: "admin",
