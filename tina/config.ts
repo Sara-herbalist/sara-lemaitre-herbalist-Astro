@@ -2,8 +2,8 @@ import { defineConfig } from "tinacms";
 
 export default defineConfig({
   // Your Tina Cloud credentials — fill these in after creating a Tina Cloud account at app.tina.io
-  clientId: "ddfe5813-2753-4d75-8dc6-c075d28b613c",
-  token: "52f1f7ad390b94c49a147abda7326a36c5d76943",
+  clientId: "99eb6a97-7152-4ecf-94e2-0d970e95077f",
+  token: "6a020e03d6073fa43e4c1b7ba84717352095e6c0",
   branch: process.env.TINA_BRANCH || process.env.CF_PAGES_BRANCH || "main",
 
   build: {
