@@ -1,0 +1,64 @@
+{
+  "defaultDocument": "",
+  "collections": [
+    {
+      "name": "homepage",
+      "path": "content/homepage",
+      "format": "json",
+      "fields": [
+        { "name": "heroEyebrow", "type": "string" },
+        { "name": "heroDesc", "type": "rich-text" },
+        { "name": "introTitle", "type": "string" },
+        { "name": "introBody", "type": "rich-text" }
+      ]
+    },
+    {
+      "name": "pricing",
+      "path": "content/pricing",
+      "format": "json",
+      "fields": [
+        { "name": "initialConsultation", "type": "number" },
+        { "name": "followUp", "type": "number" },
+        { "name": "athleteConsultation", "type": "number" },
+        { "name": "hormonalReset", "type": "number" },
+        { "name": "stressBurnout", "type": "number" },
+        { "name": "perimenopause", "type": "number" },
+        { "name": "athletePerformance", "type": "number" },
+        { "name": "ihm", "type": "number" },
+        { "name": "retainerStandard", "type": "number" },
+        { "name": "retainerIntensive", "type": "number" }
+      ]
+    },
+    {
+      "name": "workshops",
+      "path": "content/workshops",
+      "format": "json",
+      "fields": [
+        { "name": "title", "type": "string" },
+        { "name": "intro", "type": "rich-text" },
+        { "name": "workshopList", "type": "object", "list": true }
+      ]
+    },
+    {
+      "name": "settings",
+      "path": "content/settings",
+      "format": "json",
+      "fields": [
+        { "name": "calendlyUrl", "type": "string" },
+        { "name": "instagramUrl", "type": "string" },
+        { "name": "linkedinUrl", "type": "string" },
+        { "name": "email", "type": "string" }
+      ]
+    },
+    {
+      "name": "testimonials",
+      "path": "content/testimonials",
+      "format": "json",
+      "fields": [
+        { "name": "quote", "type": "string" },
+        { "name": "author", "type": "string" },
+        { "name": "condition", "type": "string" }
+      ]
+    }
+  ]
+}
