@@ -1,2 +1,9 @@
-# Netlify redirects
-/home  /index.html  200
+# Cloudflare Pages redirects
+/story          /story          200
+/therapies      /therapies      200
+/pricing        /pricing        200
+/workshops      /workshops      200
+/walks          /walks          200
+/consultancy    /consultancy    200
+/legal          /legal          200
+/thank-you      /thank-you      200
